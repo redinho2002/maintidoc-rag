@@ -1,0 +1,362 @@
+[
+  {
+    "figure_id": "FIG-FAP-001",
+    "document_id": "DOC-AUTO-FAP-001",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Voyant FAP allumé après des trajets urbains courts",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-002",
+    "document_id": "DOC-AUTO-FAP-002",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Pression différentielle FAP trop élevée",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-FAP-003",
+    "document_id": "DOC-AUTO-FAP-003",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Code P242F : accumulation de cendres",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-004",
+    "document_id": "DOC-AUTO-FAP-004",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Code P2463 : restriction par suie",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-FAP-005",
+    "document_id": "DOC-AUTO-FAP-005",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Régénération interrompue plusieurs fois",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-006",
+    "document_id": "DOC-AUTO-FAP-006",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Température en amont du FAP incohérente",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-FAP-007",
+    "document_id": "DOC-AUTO-FAP-007",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Fuite sur une durite du capteur Delta-P",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-FAP-008",
+    "document_id": "DOC-AUTO-FAP-008",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Capteur de pression différentielle bloqué",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-FAP-009",
+    "document_id": "DOC-AUTO-FAP-009",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - FAP endommagé par surchauffe",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-FAP-010",
+    "document_id": "DOC-AUTO-FAP-010",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Fumée noire et colmatage rapide",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-011",
+    "document_id": "DOC-AUTO-FAP-011",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Huile moteur au-dessus du maximum",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-012",
+    "document_id": "DOC-AUTO-FAP-012",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Additif cérine insuffisant",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-013",
+    "document_id": "DOC-AUTO-FAP-013",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Injecteur de post-traitement encrassé",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-FAP-014",
+    "document_id": "DOC-AUTO-FAP-014",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - DOC inefficace pendant la régénération",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-015",
+    "document_id": "DOC-AUTO-FAP-015",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Fuite d’échappement avant le FAP",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-016",
+    "document_id": "DOC-AUTO-FAP-016",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Voyant moteur après remplacement du FAP",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-FAP-017",
+    "document_id": "DOC-AUTO-FAP-017",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Perte de puissance en mode dégradé",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-018",
+    "document_id": "DOC-AUTO-FAP-018",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Régénération impossible à cause d’un défaut moteur",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-FAP-019",
+    "document_id": "DOC-AUTO-FAP-019",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Consommation de carburant anormale pendant les régénérations",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Diesel_particulate_filter_01.JPG",
+    "image_credit": "Hatsukari715, « Diesel particulate filter 01.JPG », Wikimedia Commons, domaine public."
+  },
+  {
+    "figure_id": "FIG-FAP-020",
+    "document_id": "DOC-AUTO-FAP-020",
+    "page": 1,
+    "equipment": "Diesel Particulate Filter",
+    "caption": "Illustration technique - Substrat FAP fissuré",
+    "image_source": "https://commons.wikimedia.org/wiki/File:DPF_Sensoren_Oxikat_039.JPG",
+    "image_credit": "Michael KR, « DPF Sensoren Oxikat 039.JPG », Wikimedia Commons, CC BY-SA 4.0."
+  },
+  {
+    "figure_id": "FIG-SCR-021",
+    "document_id": "DOC-AUTO-SCR-001",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Code P20EE : efficacité SCR sous le seuil",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-022",
+    "document_id": "DOC-AUTO-SCR-002",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Niveau AdBlue bas",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-023",
+    "document_id": "DOC-AUTO-SCR-003",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - AdBlue contaminé ou de mauvaise qualité",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-024",
+    "document_id": "DOC-AUTO-SCR-004",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Injecteur AdBlue obstrué par cristallisation",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-025",
+    "document_id": "DOC-AUTO-SCR-005",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Pression de pompe AdBlue insuffisante",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-026",
+    "document_id": "DOC-AUTO-SCR-006",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Réservoir AdBlue gelé",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-027",
+    "document_id": "DOC-AUTO-SCR-007",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Capteur NOx amont incohérent",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-028",
+    "document_id": "DOC-AUTO-SCR-008",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Capteur NOx aval sans communication",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-029",
+    "document_id": "DOC-AUTO-SCR-009",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Fuite d’échappement autour du SCR",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-030",
+    "document_id": "DOC-AUTO-SCR-010",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Cristaux d’AdBlue sur la ligne",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-031",
+    "document_id": "DOC-AUTO-SCR-011",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Température SCR trop basse",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-032",
+    "document_id": "DOC-AUTO-SCR-012",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Température SCR trop élevée",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-033",
+    "document_id": "DOC-AUTO-SCR-013",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Code P204F : performance du système réducteur",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-034",
+    "document_id": "DOC-AUTO-SCR-014",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Pompe AdBlue bruyante ou intermittente",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-035",
+    "document_id": "DOC-AUTO-SCR-015",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Voyant AdBlue après remplissage",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-036",
+    "document_id": "DOC-AUTO-SCR-016",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - ASC : suspicion de fuite d’ammoniac",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-037",
+    "document_id": "DOC-AUTO-SCR-017",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Catalyseur SCR contaminé",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-038",
+    "document_id": "DOC-AUTO-SCR-018",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Faisceau d’injecteur AdBlue endommagé",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-039",
+    "document_id": "DOC-AUTO-SCR-019",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Démarrage interdit après compte à rebours AdBlue",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+    "figure_id": "FIG-SCR-040",
+    "document_id": "DOC-AUTO-SCR-020",
+    "page": 1,
+    "equipment": "Selective Catalytic Reduction",
+    "caption": "Illustration technique - Dépôt dans le mélangeur avant SCR",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg",
+    "image_credit": "Z22, « Hino Standardized SCR Unit.jpg », Wikimedia Commons, CC BY-SA 3.0."
+  }
+]

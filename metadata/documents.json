@@ -1,0 +1,522 @@
+[
+  {
+    "document_id": "DOC-AUTO-FAP-001",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Voyant FAP allumé après des trajets urbains courts",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-001.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-002",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Pression différentielle FAP trop élevée",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-002.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-003",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Code P242F : accumulation de cendres",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-003.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-004",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Code P2463 : restriction par suie",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-004.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-005",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Régénération interrompue plusieurs fois",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-005.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-006",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Température en amont du FAP incohérente",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-006.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-007",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Fuite sur une durite du capteur Delta-P",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-007.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-008",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Capteur de pression différentielle bloqué",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-008.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-009",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "FAP endommagé par surchauffe",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-009.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-010",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Fumée noire et colmatage rapide",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-010.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-011",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Huile moteur au-dessus du maximum",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-011.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-012",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Additif cérine insuffisant",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-012.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-013",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Injecteur de post-traitement encrassé",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-013.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-014",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "DOC inefficace pendant la régénération",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-014.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-015",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Fuite d’échappement avant le FAP",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-015.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-016",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Voyant moteur après remplacement du FAP",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-016.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-017",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Perte de puissance en mode dégradé",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-017.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-018",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Régénération impossible à cause d’un défaut moteur",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-018.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-019",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Consommation de carburant anormale pendant les régénérations",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-019.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-FAP-020",
+    "family": "FAP",
+    "equipment": "Diesel Particulate Filter",
+    "problem_title": "Substrat FAP fissuré",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/fap/doc-auto-fap-020.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-001",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Code P20EE : efficacité SCR sous le seuil",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-001.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-002",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Niveau AdBlue bas",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-002.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-003",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "AdBlue contaminé ou de mauvaise qualité",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-003.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-004",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Injecteur AdBlue obstrué par cristallisation",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-004.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-005",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Pression de pompe AdBlue insuffisante",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-005.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-006",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Réservoir AdBlue gelé",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-006.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-007",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Capteur NOx amont incohérent",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-007.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-008",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Capteur NOx aval sans communication",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-008.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-009",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Fuite d’échappement autour du SCR",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-009.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-010",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Cristaux d’AdBlue sur la ligne",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-010.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-011",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Température SCR trop basse",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-011.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-012",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Température SCR trop élevée",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-012.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-013",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Code P204F : performance du système réducteur",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-013.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-014",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Pompe AdBlue bruyante ou intermittente",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-014.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-015",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Voyant AdBlue après remplissage",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-015.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-016",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "ASC : suspicion de fuite d’ammoniac",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-016.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-017",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Catalyseur SCR contaminé",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-017.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-018",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Faisceau d’injecteur AdBlue endommagé",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-018.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-019",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Démarrage interdit après compte à rebours AdBlue",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-019.pdf"
+  },
+  {
+    "document_id": "DOC-AUTO-SCR-020",
+    "family": "SCR",
+    "equipment": "Selective Catalytic Reduction",
+    "problem_title": "Dépôt dans le mélangeur avant SCR",
+    "version": "1.0",
+    "authorized_groups": [
+      "maintenance_team"
+    ],
+    "source_type": "synthetic_training_document",
+    "pages": 2,
+    "file_path": "corpus/scr/doc-auto-scr-020.pdf"
+  }
+]

@@ -1,0 +1,51 @@
+graph TD
+    subgraph UI ["Interface Utilisateur"]
+        Web["Interface Web Streamlit<br/>(Question + Photo + Validation)"]
+    end
+
+    subgraph API_GW ["Passerelle API"]
+        FastAPI["API FastAPI<br/>(Authentification JWT & Contrôle RBAC)"]
+    end
+
+    subgraph Agent ["Orchestration Agentique"]
+        LangGraph["Workflow LangGraph<br/>(Superviseur d'état & boucle)"]
+        HITL{"Validation Humaine<br/>(Point de rupture)"}
+    end
+
+    subgraph RAG_Engine ["Moteur RAG Multimodal"]
+        EmbedText["Embeddings Textuels<br/>BGE-M3"]
+        EmbedVision["Embeddings Visuels<br/>CLIP-compatible"]
+        Qdrant[("Base Vectorielle<br/>Qdrant")]
+        RRF["Fusion des rangs (RRF)"]
+        Reranker["Reranker BGE<br/>(Fine-tuné)"]
+    end
+
+    subgraph Model ["Modèle Vision-Langage"]
+        VLM["Qwen2.5-VL-7B-Instruct<br/>(Poids ouverts)"]
+    end
+
+    subgraph MCP ["Écosystème MCP"]
+        ClientMCP["Client MCP"]
+        ServerMCP["Serveur MCP Maintenance<br/>(Historique & Tickets)"]
+    end
+
+    subgraph Storage ["Stockage & Données"]
+        PG[("PostgreSQL<br/>Métadonnées")]
+        MinIO[("MinIO<br/>PDFs & Images")]
+    end
+
+    Web -->|HTTP / Photo| FastAPI
+    FastAPI -->|Contexte validé| LangGraph
+    LangGraph --> EmbedText & EmbedVision
+    EmbedText & EmbedVision --> Qdrant
+    Qdrant --> RRF --> Reranker
+    Reranker -->|Passages top-k + Schémas| VLM
+    LangGraph --> VLM
+    LangGraph --> ClientMCP
+    ClientMCP <--> ServerMCP
+    LangGraph --> HITL
+    HITL -->|Brouillon soumis| Web
+    Web -->|Jeton d'accord humain| HITL
+    HITL -->|Création validée| ClientMCP
+    Qdrant -.-> PG
+    VLM -.-> MinIO

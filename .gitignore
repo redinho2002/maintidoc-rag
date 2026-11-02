@@ -1,0 +1,41 @@
+# Secrets et variables d'environnement (OBLIGATOIRE - aucun secret dans Git)
+.env
+.env.*
+*.env
+secrets/
+*.pem
+*.key
+token*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Données volumineuses et caches modèles
+models/
+*.bin
+*.pt
+*.safetensors
+qdrant_storage/
+data/
+
+# IDE et OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs & Traces
+*.log
+logs/
+mlruns/

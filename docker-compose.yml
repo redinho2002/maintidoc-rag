@@ -1,0 +1,62 @@
+version: '3.8'
+
+services:
+  # Base vectorielle pour les embeddings texte et vision
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: maintidoc-qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: unless-stopped
+
+  # Base de données pour les métadonnées et contrôle d'accès
+  postgres:
+    image: postgres:16-alpine
+    container_name: maintidoc-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-maintidoc}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-maintidoc_secret}
+      POSTGRES_DB: ${POSTGRES_DB:-maintidoc_db}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  # Stockage d'objets pour les PDFs et les images originales
+  minio:
+    image: minio/minio:latest
+    container_name: maintidoc-minio
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER:-admin}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:-adminpassword}
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio_data:/data
+    restart: unless-stopped
+
+  # Tracking MLOps pour le Reranker et les métriques
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:latest
+    container_name: maintidoc-mlflow
+    ports:
+      - "5000:5000"
+    environment:
+      - BACKEND_STORE_URI=sqlite:///mlflow.db
+      - DEFAULT_ARTIFACT_ROOT=/mlflow/artifacts
+    volumes:
+      - mlflow_data:/mlflow
+    command: mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root /mlflow/artifacts --host 0.0.0.0 --port 5000
+    restart: unless-stopped
+
+volumes:
+  qdrant_data:
+  postgres_data:
+  minio_data:
+  mlflow_data:

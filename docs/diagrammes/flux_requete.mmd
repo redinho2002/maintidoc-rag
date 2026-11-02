@@ -1,0 +1,36 @@
+sequenceDiagram
+    autonumber
+    actor Tech as Technicien / Responsable
+    participant UI as Interface Streamlit
+    participant API as FastAPI Gateway
+    participant LG as LangGraph Supervisor
+    participant VLM as Qwen2.5-VL
+    participant RAG as RAG & Qdrant
+    participant MCP as Serveur MCP
+
+    Tech->>UI: Envoie Question + Photographie de voyant
+    UI->>API: Requête POST avec JWT
+    API->>API: Vérification des droits RBAC
+    API->>LG: Initialisation de l'état
+    LG->>VLM: Inspection de l'image (netteté & composant)
+    alt Image floue ou ambiguë
+        VLM-->>LG: Demande de clarification
+        LG-->>UI: "Veuillez fournir une photo plus nette de la plaque"
+    else Image valide
+        LG->>RAG: Recherche filtrée par groupe (FAP / SCR)
+        RAG-->>LG: Extraits certifiés + Figures top-k
+        opt Défaillance récurrente suspectée
+            LG->>MCP: get_equipment_history(equipment_id)
+            MCP-->>LG: Historique des pannes
+        end
+        LG->>VLM: Génération réponse sourcée (citations page/fig)
+        VLM-->>LG: Réponse formatée JSON Pydantic
+        opt Action corrective nécessaire
+            LG->>UI: Présentation du brouillon de ticket
+            Tech->>UI: Clic "Approuver le ticket" (Jeton)
+            UI->>LG: Envoi de l'approbation
+            LG->>MCP: create_ticket(id, title, desc, approval_token)
+            MCP-->>LG: Ticket créé (#1042)
+        end
+        LG-->>UI: Affichage final avec sources vérifiées
+    end
