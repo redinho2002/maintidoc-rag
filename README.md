@@ -10,7 +10,7 @@ Assistant documentaire multimodal et agentique conçu pour les techniciens et re
 
 ## 👥 Équipe de Développement (EMSI 2026)
 * **CHAOUAY** 
-* **REDDAD** 
+* **REDDAD**  
 * **Enseignante :** Prof. Mariam CHERRABI
 
 ---
